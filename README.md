@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adem </h1>
 <h3 align="center">Computer Engineering student at Eskişehir Technical University.</h3>
 
-- 🌱 I’m currently learning **Flutter, .Net , Drone Programing, Full Stack Development**
+- 🌱 I currently learned **Flutter, .Net , Drone Programing, Full Stack Development,T-SQL**
 
 - 📫 How to reach me **ademdogan972@gmail.com**
 
