@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adem </h1>
-<h3 align="center">Computer Engineering student at Eskişehir Technical University.</h3>
+<h3 align="center">AI Focused Full Stack Developer</h3>
 
 - 🌱 I'm currently learning **Flutter, Drone Programing, Full Stack Development**
 
