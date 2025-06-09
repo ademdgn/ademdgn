@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adem </h1>
 <h3 align="center">AI Focused Full Stack Developer</h3>
 
-- 🌱 I'm currently learning **Flutter, Drone Programing, Full Stack Development**
+- 🌱 I'm currently learning ** Drone Programing, Machine Learning And DeepLearning(Pytorch and Tensorflow)**
 
 - 📫 How to reach me **ademdogan972@gmail.com**
 
