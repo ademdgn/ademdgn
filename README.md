@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adem </h1>
 <h3 align="center">AI Focused Full Stack Developer</h3>
 
-🚀 Currently working on: Generative AI & LLM Fine-tuning
-🎯 Specialized in: Computer Vision + NLP + Generative AI
-🔬 Research interests: Efficient Fine-tuning, Multimodal AI
+- 🚀 Currently working on: Generative AI & LLM Fine-tuning
+- 🎯 Specialized in: Computer Vision + NLP + Generative AI
+- 🔬 Research interests: Efficient Fine-tuning, Multimodal AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
