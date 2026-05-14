@@ -9,48 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=ademdgn&style=for-the-badge&color=6E40C9" alt="Profile views"/>
 </p>
 
----
 
-## 👨‍💻 About Me
-
-```go
-package main
-
-import "fmt"
-
-type Developer struct {
-    Name        string
-    Role        string
-    Experience  string
-    Location    string
-    CurrentWork string
-    Skills      []string
-    Languages   []string
-}
-
-func main() {
-    me := Developer{
-        Name:        "Adem Doğan",
-        Role:        "Full-Stack Developer & AI Engineer",
-        Experience:  "3+ years",
-        Location:    "Turkey 🇹🇷",
-        CurrentWork: "RiseStreak - Live on Google Play 🚀",
-        Skills: []string{
-            "Backend: .NET Core, C#, Python, Go",
-            "Frontend: React Native, React.js",
-            "AI/ML: LLM Integration, Fine-tuning, RAG",
-            "DB: PostgreSQL, MongoDB, Redis",
-            "DevOps: Docker, Kubernetes, Linux",
-        },
-        Languages: []string{"Turkish (Native)", "English (B2)"},
-    }
-
-    fmt.Printf("Hello World! I'm %s 👋\n", me.Name)
-    fmt.Printf("Building: %s\n", me.CurrentWork)
-}
-```
-
----
 
 ## 🚀 What I'm Working On
 
